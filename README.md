@@ -1,1 +1,24 @@
-# test-app
+{
+  "Title": "title",
+  "Description": "",
+  "Link": "",
+  "ColorWave": "#ffffff",
+  "Color": "#ffffff",
+  "ColorWaveTwo": "#ffffff",
+  "ColorBackGround": "#ffffff",
+  "TitleGravity": "center",
+  "MessageGravity": "center",
+  "ColorMessage": "#ffffff",
+  "ColorTitle": "#ffffff",
+  "ColorBtn": "#ffffff",
+  "ColorBtnBg": "#ffffff",
+  "ColorBtnCancell": "#ffffff",
+  "ColorBtnCancellBg": "#ffffff",
+  "Cancellable": "false",
+  "MessageID": "",
+  "ShowTime": "",
+  "Button": "",
+  "ButtonCancell": "",
+  "Closure": "false",
+  "Show": "false"
+}
