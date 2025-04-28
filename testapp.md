@@ -1,0 +1,22 @@
+{
+  "Title": "title",
+  "Description": "12312",
+  "Link": "tg://join?invite=HQWNEuAuAqBlYT",
+  "ColorWave": "#ffffff",
+  "Color": "#ffffff",
+  "ColorWaveTwo": "#ffffff",
+  "ColorBackGround": "#ffffff",
+  "ColorMessage": "#ffffff",
+  "ColorTitle": "#ffffff",
+  "ColorBtn": "#ffffff",
+  "ColorBtnBg": "#ffffff",
+  "ColorBtnCancell": "#ffffff",
+  "ColorBtnCancellBg": "#ffffff",
+  "MessageID": "",
+  "ShowTime": "",
+  "Button": "",
+  "ButtonCancell": "",
+  "Cancellable": "false",
+  "Closure": "false",
+  "Show": "off"
+}
