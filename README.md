@@ -1,7 +1,7 @@
 {
-    "Title": "یک دو",
-    "Description": "سه",
-    "Link": "2صسشی",
+    "Title": "صشی",
+    "Description": "",
+    "Link": "",
     "ColorWave": "#ffffff",
     "Color": "#ffffff",
     "ColorWaveTwo": "#ffffff",
@@ -15,10 +15,10 @@
     "ColorBtnCancell": "#ffffff",
     "ColorBtnCancellBg": "#ffffff",
     "Cancellable": "false",
-    "MessageID": "1529374514049619",
+    "MessageID": "",
     "ShowTime": "",
     "Button": "",
     "ButtonCancell": "",
-    "Closure": "true",
+    "Closure": "false",
     "Show": "off"
 }
