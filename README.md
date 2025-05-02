@@ -14,7 +14,7 @@
     "ColorBtnBg": "#ffffff",
     "ColorBtnCancell": "#ffffff",
     "ColorBtnCancellBg": "#ffffff",
-    "Cancellable": "false",
+    "Cancellable": "on",
     "MessageID": "",
     "ShowTime": "",
     "Button": "",
