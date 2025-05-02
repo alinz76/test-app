@@ -1,0 +1,22 @@
+{
+  "Title": "فیلترشکن جدید و پرقدرت 😎🔥",
+  "Description": "15415",
+  "Link": "",
+  "ColorWave": "#ffffff",
+  "Color": "#ffffff",
+  "ColorWaveTwo": "#ffffff",
+  "ColorBackGround": "#ffffff",
+  "ColorMessage": "#ffffff",
+  "ColorTitle": "#ffffff",
+  "ColorBtn": "#ffffff",
+  "ColorBtnBg": "#ffffff",
+  "ColorBtnCancell": "#ffffff",
+  "ColorBtnCancellBg": "#ffffff",
+  "MessageID": "",
+  "ShowTime": "",
+  "Button": "",
+  "ButtonCancell": "",
+  "Cancellable": "false",
+  "Closure": "true",
+  "Show": "off"
+}
