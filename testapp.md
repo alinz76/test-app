@@ -1,5 +1,5 @@
 {
-  "Title": "title2",
+  "Title": "فیلترشکن جدید و پرقدرت 😎🔥",
   "Description": "",
   "Link": "",
   "ColorWave": "#ffffff",
@@ -20,5 +20,5 @@
   "Button": "",
   "ButtonCancell": "",
   "Closure": "false",
-  "Show": "false"
+  "Show": "off"
 }
