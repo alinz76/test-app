@@ -1,5 +1,5 @@
 {
-    "Title": "title4",
+    "Title": "",
     "Description": "",
     "Link": "",
     "ColorWave": "#ffffff",
@@ -15,10 +15,10 @@
     "ColorBtnCancell": "#ffffff",
     "ColorBtnCancellBg": "#ffffff",
     "Cancellable": "false",
-    "MessageID": "6238675847479789",
+    "MessageID": "",
     "ShowTime": "",
     "Button": "",
     "ButtonCancell": "",
-    "Closure": "false",
-    "Show": "false"
+    "Closure": "on",
+    "Show": "on"
 }
