@@ -14,11 +14,11 @@
     "ColorBtnBg": "#ffffff",
     "ColorBtnCancell": "#ffffff",
     "ColorBtnCancellBg": "#ffffff",
-    "Cancellable": false,
+    "Cancellable": "true",
     "MessageID": "",
     "ShowTime": "",
     "Button": "",
     "ButtonCancell": "",
-    "Closure": true,
-    "Show": "off"
+    "Closure": "true",
+    "Show": "on"
 }
